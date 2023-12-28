@@ -15,4 +15,3 @@ This script performs the following steps:
 - Name of the Generated .QVDS
 - Store Sentence of each .QVD Generated
 
-Translated with DeepL.com (free version)
